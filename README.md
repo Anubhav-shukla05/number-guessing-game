@@ -1,4 +1,4 @@
-# Number Guessing Game 🎯
+# Number Guessing Game 
 
 A simple Python number guessing game built using Python with multiple difficulty levels.
 
